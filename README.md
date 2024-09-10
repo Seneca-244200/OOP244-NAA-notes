@@ -37,20 +37,3 @@ See the section directories: <a href="NAA/README.md" target="_blank">NAA</a>
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/team/19%3A_KBNjfaJl1zXsySPY1uZgRve9h0w7RY-UkSpIVqLUoU1%40thread.tacv2/conversations?groupId=c58d3991-5d9c-4bea-ae0a-69fc4865dc67&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
 For Help and office times, click on my  [Office](https://teams.microsoft.com/l/team/19%3A_KBNjfaJl1zXsySPY1uZgRve9h0w7RY-UkSpIVqLUoU1%40thread.tacv2/conversations?groupId=c58d3991-5d9c-4bea-ae0a-69fc4865dc67&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)  link to go to MS Teams, then click on the calendar icon and book a meeting using [**Scheduling Assistant**](https://www.youtube.com/watch?v=RLDoP3eXAUU&ab_channel=FardadSoleimanloo) to make sure it does not have a conflict with my other work activities.
-
-# Fardad's Schedule
-| Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
-|--------|-------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-| 1      | 8:00-8:50   |    |    |    |    |   |
-| 2      | 8:55-9:45   |    |    |    |    |   |
-| 3      | 9:50-10:40  |    |    |   |   |    |
-| 4      | 10:45-11:35 |    |   |    |    |    |
-| 5      | 11:40-12:30 |    |    |    |    |    |
-| 6      | 12:35-13:25 |    |    |    |    |    |
-| 7      | 13:30-14:20 |    |    |    |    |    |
-| 8      | 14:25-15:15 |    |    |    |    |    |
-| 9      | 15:20-16:10 |    |    |    |    |    |
-| 10     | 16:15-17:05 |    |    |    |    |    |
-| 11     | 17:10-18:00 |    |    |    |    |    |
-| 12     | 18:05-18:55 |    |    |    |    |    |
-
