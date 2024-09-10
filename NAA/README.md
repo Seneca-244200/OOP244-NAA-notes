@@ -3,3 +3,4 @@
 
 
 - [01 Sep 03 - Welcome to oop244](https://youtu.be/-HcmjbspnvQ)
+- [02 Sep 05 - namespaces modules, pre-processor directives](https://youtu.be/NujhEDH3wVM)
