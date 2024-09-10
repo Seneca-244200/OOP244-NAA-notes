@@ -31,7 +31,7 @@ You can view the recordings below and review the code to make your base knowledg
 - [Code](144100Review/Code/)
 
 ### Lecture recordings
-See the section directories: <a href="NAA/README.md" target="_blank">NAA</a> - <a href="ZAA/README.md" target="_blank">ZAA</a>
+See the section directories: <a href="NAA/README.md" target="_blank">NAA</a>
 
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/team/19%3A_KBNjfaJl1zXsySPY1uZgRve9h0w7RY-UkSpIVqLUoU1%40thread.tacv2/conversations?groupId=c58d3991-5d9c-4bea-ae0a-69fc4865dc67&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
