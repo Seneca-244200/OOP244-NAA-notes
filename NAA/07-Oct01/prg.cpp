@@ -27,6 +27,7 @@ public:
       }
       return m_data[index];
    }
+   // fix this so it does not overwite the data but safely retruns garbage!!!!
    const int& operator[]( size_t index )const {
       return m_data[index % m_size];
    }
