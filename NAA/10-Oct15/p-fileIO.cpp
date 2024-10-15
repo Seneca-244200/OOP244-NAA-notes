@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+//#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <fstream>
 #include <cstring>
@@ -7,8 +7,9 @@ class PhoneNumber {
    char m_name[31]{};
    size_t m_number;
 public:                                          //initalization area
-   PhoneNumber( const char* name, size_t number ) :m_number( number ) {
-      strcpy( m_name, name );
+   PhoneNumber( const char* name, size_t number ) :m_name{ name }, m_number( number ) {
+      //m_name = name; crash
+//      strcpy( m_name, name );
    }
    ostream& display( ostream& ostr = cout )const {
       ostr.width( 30 );
