@@ -17,7 +17,10 @@ public:
       istr >> m_data;
       return istr;
    }
-
+   ostream& write(ostream& ostr)const {
+      ostr << "Container with " << m_data << " as data!";
+      return ostr;
+   }
 };
 /*
 ostream& operator << ostream & ostr, const WhatYouNeedToInsert& WYNTI){
@@ -28,14 +31,18 @@ ostream& operator << ostream & ostr, const WhatYouNeedToInsert& WYNTI){
 
 */
 
-                                      // class to be inserted
+// class to be inserted
 ostream& operator<<(ostream& ostr, const Container& C) {
-
    ostr << "Container with " << C.getValue() << " as data!";
-
    return ostr;
 }
-
+// class to be inserted
+/*
+ostream& operator<<(ostream& ostr, const Container& C) {
+   C.write(ostr);
+   return ostr;
+}
+*/
 istream& operator>>(istream& istr, Container& C) {
    C.read(istr);
 
@@ -45,22 +52,23 @@ istream& operator>>(istream& istr, Container& C) {
 
 
 int main() {
-   
+
    Container C;
 
    C = 12345;
    // C = Contaier(12345);
 
    cout << C.getValue() << endl;
-   
+
 
    C = Container(int(234.56));
 
    cout << C << endl;
-   
+
    cout << "Enter a Container value\n> ";
    cin >> C;
    cout << C << endl;
-   
+
    return 0;
 }
+
